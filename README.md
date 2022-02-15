@@ -13,3 +13,9 @@
                                           ✨Chicago is THE place for neighborhood festivals!✨
           
                                                      
+                                                     
+                                                     
+                                                     
+                                                     
+<button type="button" onclick="alert('Hello world!')">Click Me!</button>
+ 
