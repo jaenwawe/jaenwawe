@@ -14,8 +14,4 @@
           
                                                      
                                                      
-                                                     
-                                                     
-                                                     
-<button type="button" onclick="alert('Hello world!')">Click Me!</button>
- 
+<a href="www.linkedin.com/in/nwawe"><button>Click Me!</button></a> 
