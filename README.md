@@ -14,4 +14,6 @@
           
                                                      
                                                      
-<a href="www.linkedin.com/in/nwawe"><button>Click Me!</button></a> 
+<a href="www.linkedin.com/in/nwawe">LinkedIn</button></a> 
+
+www.linkedin.com/in/nwawe
