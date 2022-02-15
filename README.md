@@ -1,7 +1,6 @@
-### from Jae Nwawe!  👋
+### Jae Nwawe t your service!  
 
-Here are some ideas to get you started:
-
+- 👋 The best technology is a human smile!
 - 🔭 I’m currently working on adding a shopping cart to peerShopping and learning Kotlin for an Android App.
 - 🌱 I’m currently learning Amazon Web Services (AWS) and learning more about GIT..
 - 👯 I’m looking to collaborate on an Android App that stores where users interact wirelessly. The mobile app would be like my teamwork web app.
