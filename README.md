@@ -13,6 +13,11 @@
                                           ✨Chicago is THE place for neighborhood festivals!✨
                                           
                            
+         <button >JavaScript</button>
+                        
+                        
+                           <h1>Let's connect!</h1>
+                           
   <div>
     <a href="https://www.linkedin.com/in/nwawe">LinkedIn Profile</a>
   </div>
