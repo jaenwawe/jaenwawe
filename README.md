@@ -1,6 +1,6 @@
-![Screen Shot 2022-02-14 at 9 22 42 PM](https://user-images.githubusercontent.com/3753305/153987069-228c60d5-4d30-4fad-a63f-b46a1a88c819.jpg)
+[NameContactInfo](https://user-images.githubusercontent.com/3753305/153987330-b349ec7e-f6a7-47dc-a4b2-81af40cf47cf.jpg)
+- 👋 The best technology is a human smile!!
 
-- 👋 The best technology is a human smile!
 - 🔭 I’m currently working on adding a shopping cart to peerShopping and learning Kotlin for an Android App.
 - 🌱 I’m currently learning Amazon Web Services (AWS) and learning more about GIT..
 - 👯 I’m looking to collaborate on an Android App that stores where users interact wirelessly. The mobile app would be like my teamwork web app.
@@ -8,13 +8,10 @@
 - 💬 Ask me about JavaScript, Algorithms, and implementing Redux in a React Hooks project.
 - 📫 How to reach me: LinkedIn.com meeting new people and applying for jobs (and vice versa 😄).
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I never learned to read Japanese, even when I could speak it!
-  
-                                          ✨Chicago is THE place for neighborhood festivals!✨
-![Screen Shot 2022-02-14 at 9 23 09 PM](https://user-images.githubusercontent.com/3753305/153986915-19b97fc9-7a8c-4ce8-80ae-edcf58df1f57.jpg)
+- ⚡ Fun fact: I never learned to read Japanese, even when I could speak it!!
+[gitHubCenter](https://user-images.githubusercontent.com/3753305/153987451-bf4f8deb-3467-4ae3-b929-b1771b521423.jpg)
 
     <div>                         
-
       <a href="https://www.linkedin.com/in/nwawe">LinkedIn Profile</a>
     </div>
     <div>
@@ -28,6 +25,5 @@
     </div>
     <div>
       <a href="https://jaenwawe.github.io/jaewalk/">Personal Site</a>
-  </div>
   </div>
 
