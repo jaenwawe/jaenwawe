@@ -12,18 +12,31 @@
   
                                           ✨Chicago is THE place for neighborhood festivals!✨
 <div>
-    <a href="https://www.linkedin.com/in/nwawe">LinkedIn Profile</a>
+<br/>
+<br/>
+                        x
+                                                  <h1>PROGRAMMING LANGUAGES</h1>
+
+                    JavaScript, Ruby on Rails, Android, C++, PostgreSQL, Active Record, SQL, GIT, React, Redux 
+
+
+                                                `  <h1> FIND ME ONLINE</h1>
+
+    <div>                         
+
+      <a href="https://www.linkedin.com/in/nwawe">LinkedIn Profile</a>
+    </div>
+    <div>
+      <a href="https://docs.google.com/document/d/1XLrN9QmXkxd33wWWkeeSWLQOTQvKR0qQOHywNNJ_ey8/edit?usp=sharing">Resume</a>
+    </div>
+    <div>
+      <a href="https://medium.com/@JaeNwawe">Blog</a>
+    </div>
+    <div>
+      <a href= "https://youtu.be/1mru3KUyTGw" >TeamWork Demo</a>
+    </div>
+    <div>
+      <a href="https://jaenwawe.github.io/jaewalk/">Personal Site</a>
   </div>
-  <div>
-    <a href="https://docs.google.com/document/d/1XLrN9QmXkxd33wWWkeeSWLQOTQvKR0qQOHywNNJ_ey8/edit?usp=sharing">Resume</a>
-  </div>
-  <div>
-    <a href="https://medium.com/@JaeNwawe">Blog</a>
-  </div>
-  <div>
-    <a href= "https://youtu.be/1mru3KUyTGw" >TeamWork Demo</a>
-  </div>
-  <div>
-    <a href="https://jaenwawe.github.io/jaewalk/">Personal Site</a>
   </div>
 
