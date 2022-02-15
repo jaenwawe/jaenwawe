@@ -9,7 +9,8 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I never learned to read Japanese, even when I could speak it!!
 - 📫 How to reach me: LinkedIn.com meeting new people and applying for jobs (and vice versa 😄).
-![languages and education](https://user-images.githubusercontent.com/3753305/154112974-48c573fe-abdc-45c9-a456-806524f14724.jpg)
+![chicagoNeighborhoodFestivals](https://user-images.githubusercontent.com/3753305/154114677-c67f5e32-e201-45d8-bdc3-85511123641c.jpg)
+
 
 <div>
     <div>                         
