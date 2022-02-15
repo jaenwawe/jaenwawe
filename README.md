@@ -20,5 +20,10 @@
  <div>
     <a href="https://www.linkedin.com/in/nwawe">LinkedIn Profile</a>
   </div>
+  
+  
+   <button onclick="window.location.href=https://www.linkedin.com/in/nwawe;">
 
-          
+    
+  
+  https://www.linkedin.com/in/nwawe
