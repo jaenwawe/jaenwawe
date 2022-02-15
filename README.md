@@ -11,19 +11,7 @@
 - ⚡ Fun fact: I never learned to read Japanese, even when I could speak it!
   
                                           ✨Chicago is THE place for neighborhood festivals!✨
-                                          
-                           
- 
-
-                                                  PROGRAMMING LANGUAGES
-
-                    JavaScript, Ruby on Rails, Android, C++, PostgreSQL, Active Record, SQL, GIT, React, Redux 
-
-
-                                                `   FIND ME ONLINE
-  
-                           
-  <div>
+<div>
     <a href="https://www.linkedin.com/in/nwawe">LinkedIn Profile</a>
   </div>
   <div>
