@@ -1,4 +1,4 @@
-### Jae Nwawe at your service!  
+![Screen Shot 2022-02-14 at 9 22 42 PM](https://user-images.githubusercontent.com/3753305/153987069-228c60d5-4d30-4fad-a63f-b46a1a88c819.jpg)
 
 - 👋 The best technology is a human smile!
 - 🔭 I’m currently working on adding a shopping cart to peerShopping and learning Kotlin for an Android App.
