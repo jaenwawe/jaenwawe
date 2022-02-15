@@ -11,16 +11,7 @@
 - ⚡ Fun fact: I never learned to read Japanese, even when I could speak it!
   
                                           ✨Chicago is THE place for neighborhood festivals!✨
-<div>
-<br/>
-<br/>
-                        x
-                                                  <h1>PROGRAMMING LANGUAGES</h1>
-
-                    JavaScript, Ruby on Rails, Android, C++, PostgreSQL, Active Record, SQL, GIT, React, Redux 
-
-
-                                                `  <h1> FIND ME ONLINE</h1>
+![Screen Shot 2022-02-14 at 9 23 09 PM](https://user-images.githubusercontent.com/3753305/153986915-19b97fc9-7a8c-4ce8-80ae-edcf58df1f57.jpg)
 
     <div>                         
 
