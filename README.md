@@ -12,11 +12,11 @@
   
                                           ✨Chicago is THE place for neighborhood festivals!✨
                                           
- https://youtu.be/1mru3KUyTGw                               
+                           
  <div>
-   <a href="https://youtu.be/1mru3KUyTGw">video</a><br/>
+   <a href="https://youtu.be/1mru3KUyTGw">TeamWork Demo</a><br/>
 
-    <a href="www.yahoo.com">Yahoo</a>
+    <a href="https://www.linkedin.com/in/nwawe">LinkedIn Profile</a>
   </div>
 
           
