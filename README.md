@@ -14,7 +14,7 @@
 
 <div>
     <div>                         
-      <a href="https://www.linkedin.com/in/nwawe">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/nwawe">LinkedIn Profile</a>
     </div>
      <div>                         
       <a href="https://docs.google.com/document/d/1-C8Ru5PyPTVx0OLu1H2Wuw5W2ajPLxLJ/edit?usp=sharing&ouid=114372436357455212347&rtpof=true&sd=true">Resume</a>
@@ -26,6 +26,6 @@
       <a href= "https://youtu.be/1mru3KUyTGw" >teamWork Demo</a>
     </div>
     <div>
-      <a href="https://jaenwawe.github.io/jaewalk/">JaeWalk.com</a>
+      <a href="https://jaenwawe.github.io/jaewalk/">jaeWalk.com</a>
   </div>
 </div>
