@@ -17,3 +17,7 @@
 <a href="www.linkedin.com/in/nwawe">LinkedIn</button></a> 
 
 www.linkedin.com/in/nwawe
+<form action="https://www.linkedin.com">
+    <input type="submit" value="Go to Google" />
+</form>
+ 
