@@ -23,7 +23,7 @@
       <a href="https://medium.com/@JaeNwawe">Blog</a>
     </div>
     <div>
-      <a href= "https://youtu.be/1mru3KUyTGw" >teamwork Demo</a>
+      <a href= "https://youtu.be/1mru3KUyTGw" >teamWork Demo</a>
     </div>
     <div>
       <a href="https://jaenwawe.github.io/jaewalk/">JaeWalk.com</a>
