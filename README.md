@@ -15,8 +15,8 @@
     <div>                         
       <a href="https://www.linkedin.com/in/nwawe">LinkedIn</a>
     </div>
-    <div>
-      <a href"https://docs.google.com/document/d/1-C8Ru5PyPTVx0OLu1H2Wuw5W2ajPLxLJ/edit?usp=sharing&ouid=114372436357455212347&rtpof=true&sd=trues">Resume</a>
+     <div>                         
+      <a href="https://docs.google.com/document/d/1-C8Ru5PyPTVx0OLu1H2Wuw5W2ajPLxLJ/edit?usp=sharing&ouid=114372436357455212347&rtpof=true&sd=true">Resume</a>
     </div>
     <div>
       <a href="https://medium.com/@JaeNwawe">Blog</a>
