@@ -13,17 +13,27 @@
                                           ✨Chicago is THE place for neighborhood festivals!✨
                                           
                            
- <div>
-<button type=button>   <a href="https://youtu.be/1mru3KUyTGw">TeamWork Demo</a></button> <br/>
-  
- </div>
- <div>
+  <div>
     <a href="https://www.linkedin.com/in/nwawe">LinkedIn Profile</a>
   </div>
+  <div>
+    <a href="https://docs.google.com/document/d/1XLrN9QmXkxd33wWWkeeSWLQOTQvKR0qQOHywNNJ_ey8/edit?usp=sharing">Resume</a>
+  </div>
   
+  <div>
+      <a href="https://www.linkedin.com/in/nwawe">TeamWork Demo</a>
+  </div>
   
-   <button onclick="window.location.href=https://www.linkedin.com/in/nwawe;">
+  <div>
 
-    
+    <a href= "https://youtu.be/1mru3KUyTGw" >TeamWork Demo</a>
+  </div>
   
-  https://www.linkedin.com/in/nwawe
+  <div>
+    <a href="https://medium.com/@JaeNwawe">Blog</a>
+  </div>
+  
+  <div>
+    <a href="https://jaenwawe.github.io/jaewalk/">Personal Site</a>
+  </div>
+
