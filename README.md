@@ -1,4 +1,4 @@
-### Jae Nwawe t your service!  
+### Jae Nwawe at your service!  
 
 - 👋 The best technology is a human smile!
 - 🔭 I’m currently working on adding a shopping cart to peerShopping and learning Kotlin for an Android App.
@@ -11,5 +11,5 @@
 - ⚡ Fun fact: I never learned to read Japanese, even when I could speak it!
   
                                           ✨Chicago is THE place for neighborhood festivals!✨
--->           
+          
                                                      
