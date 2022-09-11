@@ -11,8 +11,6 @@
 
 
 
-<div>
-
     <div>
       <a href="https://medium.com/@JaeNwawe">Blog</a>
     </div>
