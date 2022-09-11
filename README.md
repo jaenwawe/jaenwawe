@@ -1,4 +1,4 @@
-![NameContactInfo](https://user-images.githubusercontent.com/3753305/153987611-57b0b307-1102-48a1-aa86-14e3c47a6463.jpg)
+
 
 - 👋 The best technology is a human smile!
 - 🔭 I’m currently working on adding a shopping cart to peerShopping and learning Kotlin for an Android App.
