@@ -1,6 +1,4 @@
 
-
-
 - 👋 The best technology is a human smile!
 - 🔭 I’m currently working on adding a shopping cart to peerShopping and learning Kotlin for an Android App.
 - 🌱 I’m currently learning Amazon Web Services (AWS) and learning more about GIT.
@@ -15,7 +13,7 @@
 
 <div>
     <div>                         
-      <a href="https://www.linkedin.com/in/nwawe">LinkedIn Profile</a>
+      <a href=https://docs.google.com/document/d/1Tsv4S4CY1cHWx07l9i7qGfmKBsQy32N0eElMFsCO5Is/edit">LinkedIn Profile</a>
     </div>
      <div>                         
       <a href="https://docs.google.com/document/d/1-C8Ru5PyPTVx0OLu1H2Wuw5W2ajPLxLJ/edit?usp=sharing&ouid=114372436357455212347&rtpof=true&sd=true">Resume</a>
