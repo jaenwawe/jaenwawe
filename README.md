@@ -1,5 +1,6 @@
 
 
+
 - 👋 The best technology is a human smile!
 - 🔭 I’m currently working on adding a shopping cart to peerShopping and learning Kotlin for an Android App.
 - 🌱 I’m currently learning Amazon Web Services (AWS) and learning more about GIT.
@@ -9,7 +10,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I never learned to read Japanese, even when I could speak it!!
 - 📫 How to reach me: LinkedIn.com meeting new people and applying for jobs (and vice versa 😄).
-![chicagoNeighborhoodFestivals](https://user-images.githubusercontent.com/3753305/154114677-c67f5e32-e201-45d8-bdc3-85511123641c.jpg)
+
 
 
 <div>
