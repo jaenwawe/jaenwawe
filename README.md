@@ -12,19 +12,12 @@
 
 
 <div>
-    <div>                         
-      <a href=https://docs.google.com/document/d/1Tsv4S4CY1cHWx07l9i7qGfmKBsQy32N0eElMFsCO5Is/edit">LinkedIn Profile</a>
-    </div>
-     <div>                         
-      <a href="https://docs.google.com/document/d/1-C8Ru5PyPTVx0OLu1H2Wuw5W2ajPLxLJ/edit?usp=sharing&ouid=114372436357455212347&rtpof=true&sd=true">Resume</a>
-    </div>
+
     <div>
       <a href="https://medium.com/@JaeNwawe">Blog</a>
     </div>
     <div>
       <a href= "https://youtu.be/1mru3KUyTGw" >teamWork Demo</a>
-    </div>
-    <div>
-      <a href="https://jaenwawe.github.io/jaewalk/">jaeWalk.com</a>
+
   </div>
 </div>
