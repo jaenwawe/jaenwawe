@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on an Android App that stores a user's data in the cloud. The mobile app would be like the teamwork web app.
 - 🤔 I’m looking for help with adding openSUSE or a similar distribution on a Dell Air XPS that looks flimsy but has 16GB of RAM.
 - 💬 Ask me about JavaScript, Algorithms, and implementing Redux in a React Hooks project.
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I never learned to read Japanese, even when I could speak it!!
 - 📫 How to reach me: LinkedIn.com meeting new people and applying for jobs (and vice versa 😄).
 
