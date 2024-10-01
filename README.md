@@ -1,12 +1,12 @@
 
 - 👋 The best technology is a human smile!
-- 🔭 I’m currently working on adding a shopping cart to peerShopping and learning Kotlin for an Android App.
-- 🌱 I’m currently learning Amazon Web Services (AWS) and learning more about GIT.
-- 👯 I’m looking to collaborate on an Android App that stores a user's data in the cloud. The mobile app would be like the teamwork web app.
-- 🤔 I’m looking for help with adding openSUSE or a similar distribution on a Dell Air XPS that looks flimsy but has 16GB of RAM.
-- 💬 Ask me about JavaScript, Algorithms, and implementing Redux in a React Hooks project.
-- ⚡ Fun fact: I never learned to read Japanese, even when I could speak it!!
-- 📫 How to reach me: LinkedIn.com meeting new people and applying for jobs (and vice versa 😄).
+- 🔭 Please view the a shopping cart background code to peerShopping.
+- Teamwork is on YouTube too.  I shared the running copy and an explaination on YouTube.  https://youtu.be/1mru3KUyTGw?feature=shared
+
+- 💬 Ask me about Linguistics:
+    I learned to speak Japense when I studied aboad there for 5 months.
+    I learned to speak, read, and write Spanish proficiently.  During my year and a half in South America, I  studyed Linguistics at La Pontificia Universidad Católica de Chile for nine months, exploring endless cultural events in Buenos Aires, Argentina for three months, and rewarded myself for studying linguistics in the Spanish Graduate Level program by studying salsa dancing in the salsa capitol of the world since salsa dancing is my passion.
+
 
 
 
